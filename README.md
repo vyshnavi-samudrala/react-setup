@@ -16,7 +16,7 @@ yarn install // install deps
 
 yarn run build  // webpack build
 
-yarn run start  // runs express @4000
+yarn run start  // runs express @5000
 
 yarn run fix // formats and fixes lint
 
